@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jahswill Ovedhe 
 - 👀 I’m interested in Software Engineering, Cloud Engineering and DevOps Engineering.
 - 🌱 I’m currently learning cloud technologies.
-- 💞️ I’m looking to collaborate on Software Solutions and Cloud automation.
+- 💞️ I’m looking to collaborate on DevOps and Cloud solutions/automation.
 - 📫 Learn more about me by visiting [my portfolio](https://jahswillovedhe.online/)
 
 <!---
