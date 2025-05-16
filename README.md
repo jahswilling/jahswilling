@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a Senior DevOps Engineer with extensive experience i
 
 ## 👀 About Me
 
-I’m passionate about **DevOps Engineering**, **Cloud Engineering**, and **Software Engineering**. With 7+ years of experience, I specialize in designing, deploying, and managing highly scalable cloud solutions. I have hands-on expertise in AWS, GCP, Docker, Kubernetes, and a variety of IaC tools, including **Terraform**, **CloudFormation**, and **Ansible**.
+I’m passionate about **DevOps Engineering**, **Cloud Engineering**, and **Software Engineering**. With 9+ years of experience, I specialize in designing, deploying, and managing highly scalable cloud solutions. I have hands-on expertise in AWS, GCP, Docker, Kubernetes, and a variety of IaC tools, including **Terraform**, **CloudFormation**, and **Ansible**.
 
 ### 🌱 What I Do
 - Architect and provision **scalable cloud infrastructures** using **AWS** (5X certified) and **GCP**.
